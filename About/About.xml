@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Snow Clearance Sanity (Continued)</name>
+  <packageId>Mlie.SnowClearanceSanity</packageId>
+  <author>MarvinKosh</author>
+  <url>https://github.com/emipa606/SnowClearanceSanity</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of MarvinKoshs mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1542424571
+with permission.
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/SnowClearanceSanity][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+This mod means that your colonists will avoid an endless loop of constantly clearing snow when it is currently snowing. It also reduces the priority of clearing snow so that cleaning dirt is taken care of first.
+	
+If you need to, you can still order colonists to prioritise clearing snow.
+
+[Version 1.0.1]
+
+[b]Please ask me before re-uploading this mod.[/b]
+
+[h2]Don't comment asking when the mod will update.[/h2]
+
+Comments regarding mod updates have become a nuisance. I can understand that people get excited and post before they think or read, but I have [url=https://twitter.com/marvinkosh]social media[/url], go and check there to see if I have posted about RimWorld. You will be saving me a lot of time.
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1525557407]Go to the Beta 19 version.[/url]
+
+Go to Ludeon Forums for more information and direct download links: https://ludeon.com/forums/index.php?topic=30508.0
+
+If you like this mod, why not consider looking at some of my [url=http://steamcommunity.com/id/marvinkosh/myworkshopfiles/?appid=294100]other mods[/url]?</description>
+</ModMetaData>

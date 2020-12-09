@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/WorkGiverDef[defName = "CleanClearSnow"]/priorityInType</xpath>
+    <value>
+      <priorityInType>3</priorityInType>
+    </value>
+  </Operation>
+</Patch>
