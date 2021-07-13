@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>222be9e3-4c1d-4486-9bba-0d9c9ec5d6c4</ID>
   <ModName>Snow Clearance Sanity (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-

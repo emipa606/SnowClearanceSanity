@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Snow Clearance Sanity (Continued)</name>
   <packageId>Mlie.SnowClearanceSanity</packageId>
@@ -8,6 +8,7 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -43,7 +44,7 @@ If you need to, you can still order colonists to prioritise clearing snow.
 
 [b]Please ask me before re-uploading this mod.[/b]
 
-[h2]Don't comment asking when the mod will update.[/h2]
+[h2]Don&apos;t comment asking when the mod will update.[/h2]
 
 Comments regarding mod updates have become a nuisance. I can understand that people get excited and post before they think or read, but I have [url=https://twitter.com/marvinkosh]social media[/url], go and check there to see if I have posted about RimWorld. You will be saving me a lot of time.
 
@@ -51,5 +52,17 @@ Comments regarding mod updates have become a nuisance. I can understand that peo
 
 Go to Ludeon Forums for more information and direct download links: https://ludeon.com/forums/index.php?topic=30508.0
 
-If you like this mod, why not consider looking at some of my [url=http://steamcommunity.com/id/marvinkosh/myworkshopfiles/?appid=294100]other mods[/url]?</description>
+If you like this mod, why not consider looking at some of my [url=http://steamcommunity.com/id/marvinkosh/myworkshopfiles/?appid=294100]other mods[/url]?
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
