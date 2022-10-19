@@ -1,15 +1,15 @@
 # SnowClearanceSanity
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of MarvinKoshs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1542424571
 with permission.
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 This mod means that your colonists will avoid an endless loop of constantly clearing snow when it is currently snowing. It also reduces the priority of clearing snow so that cleaning dirt is taken care of first.
 	
@@ -19,7 +19,7 @@ If you need to, you can still order colonists to prioritise clearing snow.
 
 **Please ask me before re-uploading this mod.**
 
-## Don&apos;t comment asking when the mod will update.
+## Don't comment asking when the mod will update.
 
 
 Comments regarding mod updates have become a nuisance. I can understand that people get excited and post before they think or read, but I have https://twitter.com/marvinkosh]social media, go and check there to see if I have posted about RimWorld. You will be saving me a lot of time.
@@ -30,7 +30,7 @@ Go to Ludeon Forums for more information and direct download links: https://lude
 
 If you like this mod, why not consider looking at some of my http://steamcommunity.com/id/marvinkosh/myworkshopfiles/?appid=294100]other mods?
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -40,6 +40,7 @@ If you like this mod, why not consider looking at some of my http://steamcommuni
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

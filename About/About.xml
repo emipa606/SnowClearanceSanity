@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Snow Clearance Sanity (Continued)</name>
   <packageId>Mlie.SnowClearanceSanity</packageId>
@@ -9,6 +9,7 @@
     <li>1.1</li>
     <li>1.2</li>
     <li>1.3</li>
+    <li>1.4</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -21,21 +22,25 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of MarvinKoshs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1542424571
 with permission.
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/SnowClearanceSanity][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 This mod means that your colonists will avoid an endless loop of constantly clearing snow when it is currently snowing. It also reduces the priority of clearing snow so that cleaning dirt is taken care of first.
 	
 If you need to, you can still order colonists to prioritise clearing snow.
@@ -44,7 +49,7 @@ If you need to, you can still order colonists to prioritise clearing snow.
 
 [b]Please ask me before re-uploading this mod.[/b]
 
-[h2]Don&apos;t comment asking when the mod will update.[/h2]
+[h2]Don't comment asking when the mod will update.[/h2]
 
 Comments regarding mod updates have become a nuisance. I can understand that people get excited and post before they think or read, but I have [url=https://twitter.com/marvinkosh]social media[/url], go and check there to see if I have posted about RimWorld. You will be saving me a lot of time.
 
@@ -54,7 +59,7 @@ Go to Ludeon Forums for more information and direct download links: https://lude
 
 If you like this mod, why not consider looking at some of my [url=http://steamcommunity.com/id/marvinkosh/myworkshopfiles/?appid=294100]other mods[/url]?
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -63,6 +68,6 @@ If you like this mod, why not consider looking at some of my [url=http://steamco
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
+
 </description>
 </ModMetaData>
-

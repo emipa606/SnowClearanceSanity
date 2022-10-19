@@ -2,29 +2,28 @@
 using RimWorld;
 using Verse;
 
-namespace SnowClearanceSanity
+namespace SnowClearanceSanity;
+
+[HarmonyPatch(typeof(WorkGiver_ClearSnow), "HasJobOnCell")]
+internal class ClearanceSanity
 {
-    [HarmonyPatch(typeof(WorkGiver_ClearSnow), "HasJobOnCell")]
-    internal class ClearanceSanity
+    private const float SnowGentleRate = 0.8f;
+
+    public static void Postfix(ref bool __result, Pawn pawn, IntVec3 c, bool forced)
     {
-        private const float SnowGentleRate = 0.8f;
-
-        public static void Postfix(ref bool __result, Pawn pawn, IntVec3 c, bool forced)
+        if (!__result)
         {
-            if (!__result)
-            {
-                return;
-            }
+            return;
+        }
 
-            if (forced)
-            {
-                return;
-            }
+        if (forced)
+        {
+            return;
+        }
 
-            if (pawn.Map.weatherManager.SnowRate >= SnowGentleRate && !c.Roofed(pawn.Map))
-            {
-                __result = false;
-            }
+        if (pawn.Map.weatherManager.SnowRate >= SnowGentleRate && !c.Roofed(pawn.Map))
+        {
+            __result = false;
         }
     }
 }

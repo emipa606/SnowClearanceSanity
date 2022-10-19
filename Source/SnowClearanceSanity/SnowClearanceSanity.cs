@@ -1,14 +1,13 @@
 ﻿using HarmonyLib;
 using Verse;
 
-namespace SnowClearanceSanity
+namespace SnowClearanceSanity;
+
+internal class SnowClearanceSanity : Mod
 {
-    internal class SnowClearanceSanity : Mod
+    public SnowClearanceSanity(ModContentPack content) : base(content)
     {
-        public SnowClearanceSanity(ModContentPack content) : base(content)
-        {
-            var harmony = new Harmony("net.marvinkosh.rimworld.mod.snowclearancesanity");
-            harmony.PatchAll();
-        }
+        var harmony = new Harmony("net.marvinkosh.rimworld.mod.snowclearancesanity");
+        harmony.PatchAll();
     }
 }
