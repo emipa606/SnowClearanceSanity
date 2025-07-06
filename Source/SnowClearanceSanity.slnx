@@ -1,0 +1,6 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="SnowClearanceSanity/SnowClearanceSanity.csproj" />
+</Solution>

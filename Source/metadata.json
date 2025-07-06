@@ -2,5 +2,17 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "0",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": true,
+  "Defs": false,
+  "Assemblies": true,
+  "LinesOfCode": 1940,
+  "LinesOfXML": 270,
+  "CodeBaseSize": 55,
+  "LastXmlCleaning": "2025-07-06T19:40:57.6675216+02:00",
+  "SocialImageSet": true,
+  "SearchTags": [
+    " weather",
+    " prioritization"
+  ]
 }

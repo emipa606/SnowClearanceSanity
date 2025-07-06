@@ -4,8 +4,8 @@ using Verse;
 
 namespace SnowClearanceSanity;
 
-[HarmonyPatch(typeof(WorkGiver_ClearSnow), "HasJobOnCell")]
-internal class ClearanceSanity
+[HarmonyPatch(typeof(WorkGiver_ClearSnowOrSand), nameof(WorkGiver_ClearSnowOrSand.HasJobOnCell))]
+internal class WorkGiver_ClearSnowOrSand_HasJobOnCell
 {
     private const float SnowGentleRate = 0.8f;
 
@@ -21,7 +21,8 @@ internal class ClearanceSanity
             return;
         }
 
-        if (pawn.Map.weatherManager.SnowRate >= SnowGentleRate && !c.Roofed(pawn.Map))
+        if ((pawn.Map.weatherManager.SnowRate >= SnowGentleRate ||
+             pawn.Map.weatherManager.SandRate >= SnowGentleRate) && !c.Roofed(pawn.Map))
         {
             __result = false;
         }
