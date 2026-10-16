@@ -5,7 +5,7 @@ using Verse;
 namespace SnowClearanceSanity;
 
 [HarmonyPatch(typeof(WorkGiver_ClearSnowOrSand), nameof(WorkGiver_ClearSnowOrSand.HasJobOnCell))]
-internal class WorkGiver_ClearSnowOrSand_HasJobOnCell
+internal static class WorkGiver_ClearSnowOrSand_HasJobOnCell
 {
     private const float SnowGentleRate = 0.8f;
 
